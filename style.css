@@ -47,7 +47,4 @@ body{
 @keyframes block{
     0%{left:480px;}
     100%{left:-40px;}
-
-    0%{rotate: -20deg;}
-    50%{rotate: -50deg;}
 }
